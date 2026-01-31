@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #e1dfba;
+}
+
+h2 {
+  text-align: center;
+  font-style: italic;
+}
+
+img {
+  width: 100px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10px;
+}
+
+.container {
+  background: whitesmoke;
+  width: 300px;
+  margin: 70px auto;
+  padding: 20px;
+}
+
+input {
+  width: 100%;
+  padding: 3px;
+  margin: 10px 0;
+}
+
+.button {
+  background: #e1dfba;
+  border: none;
+  color: black;
+  padding: 8px;
+}

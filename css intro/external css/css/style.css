@@ -1,0 +1,58 @@
+h1 {
+  color: green;
+  background: pink;
+  margin-left: 50px;
+}
+#title {
+  color: #9932cc;
+  background: #ccc;
+  margin: 5px 10px 15px 20px;
+}
+.para {
+  color: royalblue;
+  background: palegoldenrod;
+  margin: 30px 40px;
+  padding-left: 40px;
+  font-weight: bold;
+  font-style: italic;
+}
+a {
+  text-decoration: none;
+}
+.underline {
+  text-decoration: underline;
+}
+.line-through {
+  text-decoration: line-through;
+}
+.overline {
+  text-decoration: overline;
+}
+.uppercase {
+  text-transform: uppercase;
+}
+.lowercase {
+  text-transform: lowercase;
+}
+.capitalize {
+  text-transform: capitalize;
+}
+.center {
+  text-align: center;
+}
+.right {
+  text-align: right;
+}
+.left {
+  text-align: left;
+}
+.justify {
+  text-align: justify;
+}
+.para1 {
+  text-indent: 100px;
+  line-height: 50px;
+  letter-spacing: 10px;
+  word-spacing: 20px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}

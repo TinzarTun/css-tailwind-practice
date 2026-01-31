@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: palevioletred;
+}
+
+.container {
+  background: white;
+  width: 300px;
+  margin: 100px auto;
+  padding: 20px;
+}
+
+img {
+  width: 100px;
+}
+
+input {
+  width: 100%;
+  padding: 3px;
+  margin: 10px 0;
+}
+
+.btn {
+  color: white;
+  background: palevioletred;
+  border: none;
+  padding: 7px;
+}

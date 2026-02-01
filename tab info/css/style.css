@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.tab-bar {
+  width: 700px;
+  margin: 30px auto;
+}
+
+.navigation {
+  display: flex;
+}
+
+.tab-one {
+  color: #fff;
+  background: #3498bd;
+  border: 0;
+}
+
+.tab-two {
+  background: #aaa;
+  border: 0;
+}
+
+.tab-info {
+  border: 2px solid #3498bd;
+  padding: 10px;
+}

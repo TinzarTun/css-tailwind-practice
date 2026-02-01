@@ -1,0 +1,11 @@
+.flex {
+    display: flex;
+}
+
+.bg-blue {
+    background: blue;
+}
+
+.text-purple {
+    color: purple;
+}
